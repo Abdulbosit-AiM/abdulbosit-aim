@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-👋 Hi, I’m Abdulbosit Melikuziev
-👀 I’m interested in Full-Stack Development & AI
-🔭 I’m currently working on portfolio projects
-🌱 I’m currently learning React.js, TypeScript, and WordPress.
-❓ Ask me about anything related to Front-End Development.
-📫 How to reach me: [Telegram](https://t.me/abdulbosit_melikuziev)
-⚡ Fun fact: I try to commit every day
+- 👋 Hi, I’m Abdulbosit Melikuziev
+- 👀 I’m interested in Full-Stack Development & AI
+- 🔭 I’m currently working on portfolio projects
+- 🌱 I’m currently learning React.js, TypeScript, and WordPress.
+- ❓ Ask me about anything related to Front-End Development.
+- 📫 How to reach me: [Telegram](https://t.me/abdulbosit_melikuziev)
+- ⚡ Fun fact: I try to commit every day
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Abdulbosit-AiM) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/dPvkjskwJG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulbosit.melikuziev.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulbosit.melikuziev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulbosit-melikuziev-389535196) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdulbosit.melikuziev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amelikuziev) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abdulbosit-Melikuziev-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Alex_Darklight) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15068950) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abdulbositaim) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AbdulbositAiM) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ArthurBrights) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC7QsiT4Yo6v6CwbfeuNl3EQ) 
